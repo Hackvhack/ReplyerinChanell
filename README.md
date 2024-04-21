@@ -1,0 +1,2 @@
+# TrevogaUkraine
+Script in Telethon
